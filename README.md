@@ -8,7 +8,7 @@
 </p>
 
 ## Installation 
-1. Create DB Blog to your Local Database
+1. Create DB to your Local Database
 2. Setting configuration database in .Env
 3. run 'composer install && composer update'
 4. run 'php artisan migrate' to migrate all table
